@@ -1,6 +1,9 @@
 ## About the Project
 블레이버스 해커톤
 <br></br>
+
+![Image](https://github.com/user-attachments/assets/e57cc0b1-3590-47df-9d7f-5cb7bf866c59)
+
 ### Built With
 
 - <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
